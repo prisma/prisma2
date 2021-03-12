@@ -129,7 +129,7 @@
     "precommit": "lint-staged"
   },
   "dependencies": {
-    "@prisma/engines": "2.19.0-25.4c5c15d858e5a7739351d302d4e0d88d69149394"
+    "@prisma/engines": "2.19.0-26.integration-napi-tests-4c5c15d858e5a7739351d302d4e0d88d69149394"
   },
   "lint-staged": {
     "*.ts": [
